@@ -1,0 +1,24 @@
+{
+  "name": "aws-cloudsearch",
+  "version": "0.0.1",
+  "description": "Simple wrapper around AWS CloudSearch with a bus-based interface.",
+  "main": "index.coffee",
+  "dependencies": {
+    "fairmont": "0.1.x",
+    "request": "2.12.x",
+    "node-bus": "0.3.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyoder/aws-cloudsearch"
+  },
+  "keywords": [
+    "AWS",
+    "CloudSearch"
+  ],
+  "author": "Dan Yoder <danielyoder@gmail.com>",
+  "license": "BSD"
+}
