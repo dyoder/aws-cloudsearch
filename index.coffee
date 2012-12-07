@@ -82,7 +82,7 @@ class Client
       id: @counter
       url: @_searchURL
       query: 
-        q: term
+        bq: term
         "return-fields": fields
 
     @counter
